@@ -29,6 +29,7 @@ class App {
 
     let sumNumbers = 0;
 
+    // 숫자 더하기
     for(const num of numbers) {
       const parsedNumber = Number(num)
 
